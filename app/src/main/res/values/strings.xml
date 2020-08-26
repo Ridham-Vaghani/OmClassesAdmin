@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Om Classes</string>
+
+    <string-array name="colors">
+        <item>#FF563F</item>
+        <item>#FFC631</item>
+        <item>#D81B60</item>
+        <item>#66AA17</item>
+        <item>#34839f</item>
+    </string-array>
+
+    <string-array name="standard">
+        <item>U K G</item>
+        <item>S K G</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11 Commerce</item>
+        <item>12 Commerce</item>
+    </string-array>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
